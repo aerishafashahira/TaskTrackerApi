@@ -33,3 +33,4 @@ C:\JuniorDeveloperAssignment\TaskTrackerApi\obj\Debug\net8.0\refint\TaskTrackerA
 C:\JuniorDeveloperAssignment\TaskTrackerApi\obj\Debug\net8.0\TaskTrackerApi.pdb
 C:\JuniorDeveloperAssignment\TaskTrackerApi\obj\Debug\net8.0\TaskTrackerApi.genruntimeconfig.cache
 C:\JuniorDeveloperAssignment\TaskTrackerApi\obj\Debug\net8.0\ref\TaskTrackerApi.dll
+C:\JuniorDeveloperAssignment\TaskTrackerApi\obj\Debug\net8.0\TaskTrackerApi.sourcelink.json
